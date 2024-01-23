@@ -1,0 +1,8 @@
+- !<AssetCache/c46c9210-1c2a-462b-b4ef-9df5059bf273>
+  AssetFiles:
+    febfc1cc-3fcd-4735-811f-5555d0e15b49: 8573605a-3c81-4e90-b154-0290731b0ae9/83541c4e05f7708c1247af9d4448f056/Data/Sphere.mesh
+  Assets:
+    - !<FileMesh/febfc1cc-3fcd-4735-811f-5555d0e15b49>
+      Name: Sphere
+  SourceHash: 83541c4e05f7708c1247af9d4448f056
+  FileHash: 2561343125906910604c5c9a701fa5de

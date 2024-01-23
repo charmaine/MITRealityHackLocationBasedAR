@@ -1,0 +1,142 @@
+- !<AssetCache/f89492d9-5348-4d9a-bb3e-5de37d264159>
+  AssetFiles:
+    0a0cb039-f899-40f9-ba39-531c1f09e360: c7ed3e24-0242-4d77-ac5d-b8a19fc5e61f/37fb899fcc2744b261e9a6814db1a207/Data/pbr.ss_graph
+  Assets:
+    - !<ShaderGraphPass/0a0cb039-f899-40f9-ba39-531c1f09e360>
+      ShaderPath: c7ed3e24-0242-4d77-ac5d-b8a19fc5e61f/37fb899fcc2744b261e9a6814db1a207/Data/pbr.glsl
+      Defines:
+        []
+      Properties:
+        {}
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_Center_N016:
+          typeIdx: 3
+          value: {x: 0, y: 0}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1
+        Port_Emissive_N006:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_LODValue_N001:
+          typeIdx: 1
+          value: 0
+        Port_LODValue_N002:
+          typeIdx: 1
+          value: 0
+        Port_LODValue_N009:
+          typeIdx: 1
+          value: 0
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0, y: 1, z: 0}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_SpecularAO_N006:
+          typeIdx: 4
+          value: {x: 1, y: 1, z: 1}
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0, y: 1, z: 0}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 1}
+      PassUiData: !<PassUiData/caea3310-7f93-4679-9aae-98d5635ebf78>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Graph Parameters
+            mType: Invalid
+            mName: ""
+            mWidget: group_start
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Base Texture
+            mType: Property
+            mName: baseTex
+            mWidget: texture_group
+            mHint: "Property: baseTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Normal Texture
+            mType: Property
+            mName: normalTex
+            mWidget: texture_group
+            mHint: "Property: normalTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Material Params
+            mType: Property
+            mName: materialParamsTex
+            mWidget: texture_group
+            mHint: "Property: materialParamsTex"
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: UV Scale
+            mType: Property
+            mName: uvScale
+            mWidget: spinbox
+            mHint: "Property: uvScale"
+            mMin: ~
+            mMax: ~
+            mStep: 0.0099999997764825821
+            mDefaultVal: 1
+            mValues:
+              []
+          - mLabel: ""
+            mType: GroupEnd
+            mName: ""
+            mWidget: group_end
+            mHint: ""
+            mMin: ~
+            mMax: ~
+            mStep: ~
+            mDefaultVal: ~
+            mValues:
+              []
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: "Property: alphaTestThreshold\n\nWhen the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+            mMin: 0
+            mMax: 1
+            mStep: 0.0010000000474974513
+            mDefaultVal: 0.5
+            mValues:
+              []
+      Name: pbr
+  SourceHash: 37fb899fcc2744b261e9a6814db1a207
+  FileHash: 8a50b91a56b9f40273a6717857e39756

@@ -1,0 +1,67 @@
+Collapsed State:
+  group:
+    Base.png:
+      type: bool
+      value: true
+      options: 0
+    Custom Location [Put your own ID].location:
+      type: bool
+      value: true
+      options: 0
+    Device Camera Texture.deviceCameraTexture:
+      type: bool
+      value: true
+      options: 0
+    Echopark.hdr:
+      type: bool
+      value: true
+      options: 0
+    Echopark.hdr/Diffuse.jpeg:
+      type: bool
+      value: true
+      options: 0
+    Echopark.hdr/Specular.jpeg:
+      type: bool
+      value: true
+      options: 0
+    Location Mesh.location_mesh:
+      type: bool
+      value: true
+      options: 0
+    MaterialParams.png:
+      type: bool
+      value: true
+      options: 0
+    Normal.png:
+      type: bool
+      value: true
+      options: 0
+    PBR Material.mat:
+      type: bool
+      value: true
+      options: 0
+    Render Target.renderTarget:
+      type: bool
+      value: true
+      options: 0
+    Scene.scene:
+      type: bool
+      value: true
+      options: 0
+    Sphere.mesh:
+      type: bool
+      value: true
+      options: 0
+    custom location mat.mat:
+      type: bool
+      value: true
+      options: 0
+    location_mesh.ss_graph:
+      type: bool
+      value: true
+      options: 0
+    pbr.ss_graph:
+      type: bool
+      value: true
+      options: 0
+  options: 4

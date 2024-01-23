@@ -1,0 +1,10 @@
+- !<AssetCache/afe23ef2-c817-4bc6-9f0c-8f31b463d4ad>
+  AssetFiles:
+    a5454305-463a-462a-abac-d1832f39052d: c3d97ff4-2d2a-4a48-913b-41eb5d13b991/7ded1c3d7ce75071e4403bd22fad90df/Data/MaterialParams.png
+  Assets:
+    - !<FileTexture/a5454305-463a-462a-abac-d1832f39052d>
+      Width: 1
+      Height: 1
+      Name: MaterialParams
+  SourceHash: 7ded1c3d7ce75071e4403bd22fad90df
+  FileHash: 4301a9314b1fb3cf42c2779154edd988

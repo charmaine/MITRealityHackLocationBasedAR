@@ -1,0 +1,15 @@
+- !<AssetCache/e4534649-b871-47b1-b703-6dbac94fc23d>
+  AssetFiles:
+    a0f08b1f-936d-42d4-b6ff-012d5b2654f1: 3c7fa187-4761-477d-8560-b306c3a544e5/f8159fd58224e7297a99801126b2b0e5/Data/Diffuse.jpeg
+    aab2e277-bc9b-4a9f-9c4c-43cec940e813: 3c7fa187-4761-477d-8560-b306c3a544e5/f8159fd58224e7297a99801126b2b0e5/Data/Specular.jpeg
+  Assets:
+    - !<FileTexture/a0f08b1f-936d-42d4-b6ff-012d5b2654f1>
+      Width: 64
+      Height: 32
+      Name: Diffuse
+    - !<FileTexture/aab2e277-bc9b-4a9f-9c4c-43cec940e813>
+      Width: 512
+      Height: 384
+      Name: Specular
+  SourceHash: f8159fd58224e7297a99801126b2b0e5
+  FileHash: fb8a0288b0cd3e7074f38fc659bf3e79

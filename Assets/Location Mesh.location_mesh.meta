@@ -1,0 +1,9 @@
+- !<AssetImportMetadata/9477fd71-e367-49ed-a2ac-b7f61bc31ceb>
+  ImporterSettings: !<AssetImporterSettings/affd08ff-0daa-4910-bc0e-5d069f432a19>
+    {}
+  ImportedAssetIds:
+    LocationMesh: c6ce3f23-bc12-4265-a0b8-f0eddd579f95
+  ImporterName: LocationMeshImporter
+  PrimaryAsset: !<reference> c6ce3f23-bc12-4265-a0b8-f0eddd579f95
+  PackageType: CannotBeUnpacked
+  AssetData: !<own> 00000000-0000-0000-0000-000000000000

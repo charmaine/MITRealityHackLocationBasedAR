@@ -1,0 +1,85 @@
+- !<AssetCache/86ff3206-2bb4-4b85-b384-bf017af3c9f5>
+  AssetFiles:
+    84303173-941a-4b6f-9099-e3c09a040137: 75e7116a-e238-4ea0-9d4e-cca2ad3b3d2f/0fb3dcb51e6511189aa02c8160a96b01/Data/location_mesh.ss_graph
+  Assets:
+    - !<ShaderGraphPass/84303173-941a-4b6f-9099-e3c09a040137>
+      ShaderPath: 75e7116a-e238-4ea0-9d4e-cca2ad3b3d2f/0fb3dcb51e6511189aa02c8160a96b01/Data/location_mesh.glsl
+      Defines:
+        []
+      Properties:
+        {}
+      DefaultDefines:
+        []
+      DefaultProperties:
+        Port_AO_N006:
+          typeIdx: 4
+          value: {x: 1, y: 1, z: 1}
+        Port_Albedo_N006:
+          typeIdx: 4
+          value: {x: 0.49019607901573181, y: 0.49019607901573181, z: 0.4917372465133667}
+        Port_Depth_N004:
+          typeIdx: 1
+          value: 1
+        Port_Emissive_N006:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_FinalColor1_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_FinalColor2_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_FinalColor3_N004:
+          typeIdx: 5
+          value: {x: 1, y: 1, z: 1, w: 1}
+        Port_Input1_N012:
+          typeIdx: 1
+          value: 0.5
+        Port_Metallic_N006:
+          typeIdx: 1
+          value: 0
+        Port_Normal_N006:
+          typeIdx: 4
+          value: {x: 0, y: 1, z: 0}
+        Port_Opacity_N006:
+          typeIdx: 1
+          value: 1
+        Port_RayDirection_N004:
+          typeIdx: 4
+          value: {x: 0, y: 1, z: 0}
+        Port_RayOrigin_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_Roughness_N006:
+          typeIdx: 1
+          value: 0
+        Port_SpecularAO_N006:
+          typeIdx: 4
+          value: {x: 1, y: 1, z: 1}
+        Port_WorldNormal_N004:
+          typeIdx: 4
+          value: {x: 0, y: 1, z: 0}
+        Port_WorldPosition_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 0}
+        Port_WorldTangent_N004:
+          typeIdx: 4
+          value: {x: 0, y: 0, z: 1}
+      PassUiData: !<PassUiData/fe221184-1537-4f08-abdc-39b721191a59>
+        ExtraDefines:
+          []
+        PassBindings:
+          - mLabel: Alpha Test Threshold
+            mType: Property
+            mName: alphaTestThreshold
+            mWidget: slider
+            mHint: "Property: alphaTestThreshold\n\nWhen the 'Alpha Test' blend mode is enabled, pixels with alpha values lower than this disappear."
+            mMin: 0
+            mMax: 1
+            mStep: 0.0010000000474974513
+            mDefaultVal: 0.5
+            mValues:
+              []
+      Name: location_mesh
+  SourceHash: 0fb3dcb51e6511189aa02c8160a96b01
+  FileHash: c489c70bb53d2aaadb8cf92614d36129

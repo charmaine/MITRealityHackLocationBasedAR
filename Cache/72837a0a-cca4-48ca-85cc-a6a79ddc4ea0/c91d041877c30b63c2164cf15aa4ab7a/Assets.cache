@@ -1,0 +1,10 @@
+- !<AssetCache/8951f870-4151-49d4-814d-4bb7e2d3f7d1>
+  AssetFiles:
+    d9cb7d98-5c34-4dc6-97a5-918a4111e3ab: 72837a0a-cca4-48ca-85cc-a6a79ddc4ea0/c91d041877c30b63c2164cf15aa4ab7a/Data/Normal.png
+  Assets:
+    - !<FileTexture/d9cb7d98-5c34-4dc6-97a5-918a4111e3ab>
+      Width: 1
+      Height: 1
+      Name: Normal
+  SourceHash: c91d041877c30b63c2164cf15aa4ab7a
+  FileHash: 28ddac3b5fb6a5031bc8c23490fd8908

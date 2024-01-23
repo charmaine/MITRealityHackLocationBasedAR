@@ -1,0 +1,9 @@
+- !<AssetImportMetadata/e02696eb-cd2e-44c8-a5df-562d87896ec2>
+  ImporterSettings: !<AssetImporterSettings/caf3f4cc-d2e9-4d69-8224-9ee5249166b6>
+    {}
+  ImportedAssetIds:
+    Location: 8d319553-e1fe-41b3-82c6-4478359acc2e
+  ImporterName: LocationImporter
+  PrimaryAsset: !<reference> 8d319553-e1fe-41b3-82c6-4478359acc2e
+  PackageType: CannotBeUnpacked
+  AssetData: !<own> 00000000-0000-0000-0000-000000000000

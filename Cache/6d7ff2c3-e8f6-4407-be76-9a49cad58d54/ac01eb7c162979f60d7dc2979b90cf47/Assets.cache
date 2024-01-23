@@ -1,0 +1,10 @@
+- !<AssetCache/dbf9e54b-d6b4-4f57-a581-fe08fb2c7887>
+  AssetFiles:
+    e7d7b50a-c046-4e7b-8937-3ed747bfe80d: 6d7ff2c3-e8f6-4407-be76-9a49cad58d54/ac01eb7c162979f60d7dc2979b90cf47/Data/Base.png
+  Assets:
+    - !<FileTexture/e7d7b50a-c046-4e7b-8937-3ed747bfe80d>
+      Width: 1
+      Height: 1
+      Name: Base
+  SourceHash: ac01eb7c162979f60d7dc2979b90cf47
+  FileHash: 2c41b58e00732055c3306c5bc4ffad5a
